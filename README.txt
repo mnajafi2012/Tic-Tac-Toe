@@ -1,3 +1,6 @@
+ * Author: Mary Najafi
+ * Feb 1, 2017
+ * The following is the manual to run the Tic-Tac-Toe game.
 java Main [OPTIONS] ...
 
 OPTIONS:
